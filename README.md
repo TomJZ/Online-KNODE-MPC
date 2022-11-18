@@ -27,15 +27,16 @@ If you find any part of this repository useful and/or use it in your research, p
 
     @article{online_dynamics,
       title={Online Dynamics Learning for Predictive Control with an Application to Aerial Robots},
-      author={Jiahao, Tom Z and Chee, Kong Yao and Hsieh, M Ani},
-      journal={arXiv preprint arXiv:2207.09344},
+      author={Jiahao, Tom Z. and Chee, Kong Yao and Hsieh, M. Ani},
+      journal={Conference on Robot Learning (CoRL)},
+      pdf={https://arxiv.org/pdf/2207.09344.pdf},
       year={2022}
     }
 
     @ARTICLE{knode_mpc,
+      title={{KNODE-MPC}: A Knowledge-Based Data-Driven Predictive Control Framework for Aerial Robots}, 
       author={Chee, Kong Yao and Jiahao, Tom Z. and Hsieh, M. Ani},
       journal={IEEE Robotics and Automation Letters}, 
-      title={KNODE-MPC: A Knowledge-Based Data-Driven Predictive Control Framework for Aerial Robots}, 
       year={2022},
       volume={7},
       number={2},
